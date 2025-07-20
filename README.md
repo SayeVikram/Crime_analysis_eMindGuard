@@ -1,6 +1,4 @@
 # Crime_analysis_eMindGuard
-Small project undertaken for the eMindGuard project to analyze and visualize crime data across the City of Chicago for the application
-
 
  __Project Aim:__ Analyze crime data from the Chicago Crime Data Portal from October 1, 2024, to November 14, 2024.
 
@@ -8,11 +6,16 @@ Focus area: Six major crime types:
 ROBBERY, HOMICIDE, CRIMINAL SEXUAL ASSAULT, BURGLARY, MOTOR VEHICLE THEFT, ASSAULT
 
 
+
+
 __Data Processing Techniques:__
   - Normalization
   - Principal Component Analysis (PCA)
+
+
     
 Key Outcome: Visualized crime distribution across Chicago neighborhoods.
+
 
 
 __Methodology:__
@@ -28,6 +31,7 @@ __Methodology:__
 Plan to integrate findings into the eMindguard project for:
 - Enhancing community awareness.
 - Supporting informed decision-making.
+
 
 
 Heatmap:
