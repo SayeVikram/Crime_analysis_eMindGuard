@@ -2,4 +2,5 @@
 Small project undertaken for the eMindGuard project to analyze and visualize crime data across the City of Chicago for the application
 
 Heatmap:
-![alt text](https://imgur.com/a/UQGF0DN "Heatmap of crime rates in Chicago")
+
+![alt text](https://github.com/SayeVikram/Crime_analysis_eMindGuard/blob/main/heatmap.png "Heatmap of crime rates in Chicago")
