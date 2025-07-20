@@ -1,4 +1,4 @@
-# Crime_analysis_eMindGuard
+# Crime Analysis Project eMindGuard
 
  __Project Aim:__ Analyze crime data from the Chicago Crime Data Portal from October 1, 2024, to November 14, 2024.
 
