@@ -4,3 +4,8 @@ Small project undertaken for the eMindGuard project to analyze and visualize cri
 Heatmap:
 
 ![alt text](https://github.com/SayeVikram/Crime_analysis_eMindGuard/blob/main/heatmap.png "Heatmap of crime rates in Chicago")
+
+
+Sample Frequencies for 3 census tracts:
+
+![alt text](https://github.com/SayeVikram/Crime_analysis_eMindGuard/blob/main/freqs.png "Sample Frequencies for 3 census tracts")
