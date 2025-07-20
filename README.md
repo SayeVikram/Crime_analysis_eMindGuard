@@ -2,20 +2,20 @@
 Small project undertaken for the eMindGuard project to analyze and visualize crime data across the City of Chicago for the application
 
 
-**** __Project Aim:__ Analyze crime data from the Chicago Crime Data Portal from October 1, 2024, to November 14, 2024.
+ __Project Aim:__ Analyze crime data from the Chicago Crime Data Portal from October 1, 2024, to November 14, 2024.
 
 Focus area: Six major crime types:
 ROBBERY, HOMICIDE, CRIMINAL SEXUAL ASSAULT, BURGLARY, MOTOR VEHICLE THEFT, ASSAULT
 
 
-**** __Data Processing Techniques:__
+__Data Processing Techniques:__
   - Normalization
   - Principal Component Analysis (PCA)
     
 Key Outcome: Visualized crime distribution across Chicago neighborhoods.
 
 
-**** __Methodology:__
+__Methodology:__
 1. Data Preprocessing: Datetime formats, null value and empty row removal, and data type adjustment
 2. Geolocation and Zip Codes: Geocoding API to retrieve Census-tracts based on latitude and longitude, FIPS to census tracts for GeoID
 3. Data Analysis: Normalized crime frequencies using Min-Max normalization, (PCA) to summarize crime data into a single normalized value
